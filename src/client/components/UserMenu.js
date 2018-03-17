@@ -109,6 +109,11 @@ class UserMenu extends React.Component {
               >
                 <FormattedMessage id="activity" defaultMessage="Activity" />
               </li>
+  
+
+
+
+          
             </ul>
           </Scrollbars>
         </div>
